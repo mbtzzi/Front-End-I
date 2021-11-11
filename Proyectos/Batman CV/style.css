@@ -1,0 +1,35 @@
+h1.titulos {
+    color: #005677;
+    background-color: #C4C4C4;
+    text-align: center;
+    font-size:29.64px;
+    
+}
+
+.titulos {
+    color: #005677;
+    background-color: #C4C4C4;
+    font-weight: 700;
+    line-height: 29.64px;
+    text-transform:uppercase;
+    letter-spacing: 10px;
+    font-size: 20px;
+}
+
+.datospersonales {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.negrita {
+    font-weight: bold
+}
+
+.footer {
+    background-color: #005677;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+
+}
