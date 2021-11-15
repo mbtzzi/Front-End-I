@@ -1,0 +1,125 @@
+/* header */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    }
+
+.descuentos {
+    height: 38px;
+    background-color: #1CD1B0;
+}
+
+.descuentos-p {
+    font-size: 15px;
+    padding: 10px;
+}
+
+.titlebox {
+    background-color: #00669F;
+    height: 101px;
+}
+
+h1 {
+    font-size: 40px;
+    padding: 28px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+/* body */
+
+.container {
+    display: flex;
+    justify-content: center;
+    margin: 132px 32px 151px;  
+}
+
+.card {
+    height: 538px;
+    width: 300px;
+    margin: 15px;
+}
+
+.imagen {
+    width: 300px;   
+    height: 193px;
+    border-radius: 5px;
+    position: relative;
+}
+
+.corazon {
+    position: absolute;
+    left: 21px;
+    top: 15.88px;
+    z-index: 1;
+}
+
+.fondo {
+    position: relative;
+}
+
+.texto {
+    position: relative;
+    background-color: #F3F3F3;
+    height: 336px;
+}
+
+.SHface {
+    border-radius: 50px;
+    left: 90px;
+    top: -64px;
+    position: absolute;
+}
+
+.titulosuperheroe {
+    font-size: 30px;
+    text-align: center;
+    align-items: center;
+    position: absolute; 
+    top: 73px;
+    left:89px;
+}
+
+.descsuperhero {
+    position: absolute;
+    top: 116px;
+    padding: 16px;
+}
+
+.buttonbox {
+    position: relative;
+    top: 268px;
+    left:85px;
+    width: 128.78px;
+    height: 48.52px;
+    background-color: #00669F;
+}
+
+.vermas {
+    position: absolute;
+    top: 15px;
+    left: 37px;
+    font-size: 15px;
+    background-color: #00669F;
+    color: white;
+    z-index: 1;
+}
+
+/* footer */
+.footer {
+    background-color: #00669F;
+}
+
+.footertext {
+    padding: 16px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    color: white;
+}
